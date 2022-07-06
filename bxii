@@ -1,4 +1,4 @@
-GNU nano 6.3                          2.py
+                      2.py
 from __future__ import print_function
 import platform, os, sys, time, smtplib
 def move():
